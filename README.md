@@ -1,2 +1,2 @@
-# modern_js
+# Modern JavaScript 
 ODIN Project - JavaScript Course
